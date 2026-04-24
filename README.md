@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | MERN Specialist | AI/ML Enthusiast**
 
-Welcome to my GitHub! I'm passionate about building scalable web applications, integrating cutting-edge AI technologies, and creating solutions that make a real impact. I love combining clean code with innovative features to deliver exceptional user experiences.
+Welcome to my GitHub! I'm passionate about building scalable web applications, integrating cutting-edge AI technologies, and creating solutions that make a real impact. I love combining clean code [...]
 
 ---
 
@@ -95,6 +95,21 @@ A comprehensive mental wellness platform combining digital journaling, mood trac
 
 ---
 
+### 🌤️ **Weather Dashboard** — Real-Time Weather Application
+*React.js | Vite | Tailwind CSS | Weather API*
+
+A real-time weather application that provides current weather conditions and forecasts with an intuitive user interface.
+- 🌍 City search functionality with accurate weather data
+- 📍 Geolocation support for automatic weather detection
+- 📊 Detailed weather metrics including temperature, humidity, and wind speed
+- 🎨 Dynamic backgrounds based on weather conditions
+- 📱 Fully responsive design for all devices
+- 🌙 Dark mode support for comfortable viewing
+
+**[View Live Demo]()** | [View Repository](https://github.com/vasukurdia)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Vasu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vasukurdia&show_icons=true&theme=radical&hide_border=true)
@@ -129,4 +144,4 @@ A comprehensive mental wellness platform combining digital journaling, mood trac
 
 ## ⭐ Let's Build Together!
 
-I'm always excited to collaborate on interesting projects, contribute to open-source, and learn from the developer community. If you find my projects useful, feel free to star them! Let's connect and create something amazing together. 🚀
+I'm always excited to collaborate on interesting projects, contribute to open-source, and learn from the developer community. If you find my projects useful, feel free to star them! Let's connect [...]
