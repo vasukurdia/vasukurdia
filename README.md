@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | MERN Specialist | AI/ML Enthusiast**
 
-Welcome to my GitHub! I'm passionate about building scalable web applications, integrating cutting-edge AI technologies, and creating solutions that make a real impact. I love combining clean code [...]
+Welcome to my GitHub! I'm passionate about building scalable web applications, integrating cutting-edge AI technologies, and creating solutions that make a real impact. I love combining clean code.
 
 ---
 
@@ -144,4 +144,4 @@ A real-time weather application that provides current weather conditions and for
 
 ## ⭐ Let's Build Together!
 
-I'm always excited to collaborate on interesting projects, contribute to open-source, and learn from the developer community. If you find my projects useful, feel free to star them! Let's connect [...]
+I'm always excited to collaborate on interesting projects, contribute to open-source, and learn from the developer community. If you find my projects useful, feel free to star them! Let's connect
