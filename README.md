@@ -63,7 +63,7 @@ An intelligent web application that generates production-ready UI components bas
 - 🔐 Secure API key handling via environment variables
 - 🎨 Clean, intuitive user interface
 
-**[View Live Demo](https://ai-component-generator-one.vercel.app/)** | [View Repository](https://github.com/vasukurdia)
+**[View Live Demo](https://ai-component-generator-one.vercel.app/)** | [View Repository](https://github.com/vasukurdia/ai-component-generator)
 
 ---
 
@@ -77,7 +77,7 @@ A comprehensive task management system with role-based dashboards for admins and
 - 🎨 Fully responsive design with Tailwind CSS
 - 🔄 Global state management using React Context API
 
-**[View Live Demo](https://employee-management-system-amber-psi.vercel.app/)** | [View Repository](https://github.com/vasukurdia)
+**[View Live Demo](https://employee-management-system-amber-psi.vercel.app/)** | [View Repository](https://github.com/vasukurdia/Employee-Management-System)
 
 ---
 
@@ -91,7 +91,7 @@ A comprehensive mental wellness platform combining digital journaling, mood trac
 - 📈 Real-time mood analytics dashboard with emotional pattern visualization
 - 💬 Personalized coping strategies and mental health support
 
-**[View Live Demo](https://mental-health-journal-and-ai-compan.vercel.app/)** | [View Repository](https://github.com/vasukurdia)
+**[View Live Demo](https://mental-health-journal-and-ai-compan.vercel.app/)** | [View Repository](https://github.com/vasukurdia/mental-health-journal-and-ai-companion)
 
 ---
 
@@ -106,7 +106,21 @@ A real-time weather application that provides current weather conditions and for
 - 📱 Fully responsive design for all devices
 - 🌙 Dark mode support for comfortable viewing
 
-**[View Live Demo]()** | [View Repository](https://github.com/vasukurdia)
+**[View Live Demo](https://weather-dashboard-rho-three.vercel.app/)** | [View Repository](https://github.com/vasukurdia/weather-dashboard)
+
+---
+
+### 🎓 **AI Career Navigator** — Personalized Career Path Planning Platform
+*React.js | Node.js | Express.js | MongoDB | Google Gemini AI*
+
+An intelligent career guidance platform that provides personalized career recommendations and development paths using AI analysis.
+- 🤖 AI-powered career analysis based on skills and interests
+- 📈 Personalized roadmap generation with milestones
+- 💼 Industry insights and job market trends
+- 🎯 Skill gap analysis and learning recommendations
+- 📊 Progress tracking and career milestone visualization
+
+**[View Live Demo](https://ai-career-navigator.vercel.app/)** | [View Repository](https://github.com/vasukurdia/ai-career-navigator)
 
 ---
 
