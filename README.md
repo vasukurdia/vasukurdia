@@ -119,7 +119,7 @@ An intelligent career guidance platform that provides personalized career recomm
 - 🎯 Skill gap analysis and learning recommendations
 - 📊 Progress tracking and career milestone visualization
 
-**[View Live Demo](https://ai-career-navigator.vercel.app/)** | [View Repository](https://github.com/vasukurdia/ai-career-navigator)
+**[View Live Demo](https://ai-career-navigator-ten.vercel.app/)** | [View Repository](https://github.com/vasukurdia/ai-career-navigator)
 
 ---
 
