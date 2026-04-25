@@ -104,9 +104,8 @@ A real-time weather application that provides current weather conditions and for
 - 📊 Detailed weather metrics including temperature, humidity, and wind speed
 - 🎨 Dynamic backgrounds based on weather conditions
 - 📱 Fully responsive design for all devices
-- 🌙 Dark mode support for comfortable viewing
 
-**[View Live Demo](https://weather-dashboard-rho-three.vercel.app/)** | [View Repository](https://github.com/vasukurdia/weather-dashboard)
+**[View Live Demo](https://weather-dashboard-neon-omega.vercel.app/)** | [View Repository](https://github.com/vasukurdia/weather-dashboard)
 
 ---
 
