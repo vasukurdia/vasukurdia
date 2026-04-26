@@ -95,20 +95,6 @@ A comprehensive mental wellness platform combining digital journaling, mood trac
 
 ---
 
-### 🌤️ **Weather Dashboard** — Real-Time Weather Application
-*React.js | Vite | Tailwind CSS | Weather API*
-
-A real-time weather application that provides current weather conditions and forecasts with an intuitive user interface.
-- 🌍 City search functionality with accurate weather data
-- 📍 Geolocation support for automatic weather detection
-- 📊 Detailed weather metrics including temperature, humidity, and wind speed
-- 🎨 Dynamic backgrounds based on weather conditions
-- 📱 Fully responsive design for all devices
-
-**[View Live Demo](https://weather-dashboard-neon-omega.vercel.app/)** | [View Repository](https://github.com/vasukurdia/weather-dashboard)
-
----
-
 ### 🎓 **AI Career Navigator** — Personalized Career Path Planning Platform
 *React.js | Node.js | Express.js | MongoDB | Google Gemini AI*
 
@@ -120,6 +106,20 @@ An intelligent career guidance platform that provides personalized career recomm
 - 📊 Progress tracking and career milestone visualization
 
 **[View Live Demo](https://ai-career-navigator-ten.vercel.app/)** | [View Repository](https://github.com/vasukurdia/ai-career-navigator)
+
+---
+
+### 🌤️ **Weather Dashboard** — Real-Time Weather Application
+*React.js | Vite | Tailwind CSS | Weather API*
+
+A real-time weather application that provides current weather conditions and forecasts with an intuitive user interface.
+- 🌍 City search functionality with accurate weather data
+- 📍 Geolocation support for automatic weather detection
+- 📊 Detailed weather metrics including temperature, humidity, and wind speed
+- 🎨 Dynamic backgrounds based on weather conditions
+- 📱 Fully responsive design for all devices
+
+**[View Live Demo](https://weather-dashboard-neon-omega.vercel.app/)** | [View Repository](https://github.com/vasukurdia/weather-dashboard)
 
 ---
 
